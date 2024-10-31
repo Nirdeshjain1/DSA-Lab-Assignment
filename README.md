@@ -33,4 +33,4 @@ The DSA Lab Assignment includes the following implementations of advanced array 
 -**5.	Advanced String Operations**
 -**6.	Complexity Analysis**
 
-How to Run the Implementations
+##How to Run the Implementations
