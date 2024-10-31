@@ -18,7 +18,7 @@ This repository showcases various data structures and algorithms implemented in 
 
 ## Technologies Used
 
-- **Programming Language:** Go (Golang)
+- **Programming Language:** JAVA
 - **IDE:** Visual Studio Code / GoLand / Any text editor
 - **Libraries:** N/A (Standard Libraries)
 
