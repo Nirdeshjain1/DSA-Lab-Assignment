@@ -22,7 +22,9 @@ This repository showcases various data structures and algorithms implemented in 
 - **IDE:** Visual Studio Code / GoLand / Any text editor
 - **Libraries:** N/A (Standard Libraries)
 
-## Folder Structure
+## Implementation
 
-The folder structure of the repository is as follows:
+The DSA Lab Assignment includes the following implementations of advanced array and string operations:
+
+DSA-Lab-Assignment/ │ ├── two_dimensional_array.go # Implementation of multi-dimensional arrays with row-wise and column-wise operations ├── string_algorithms.go # Implementation of advanced string operations: KMP pattern matching and Run Length Encoding (RLE) ├── complexity_analysis.go # Analysis of time and space complexity of the multi-dimensional array operations and string algorithms ├── test_cases.go # Test cases for validating the implementations └── README.md # Project documentation and instructions
 
