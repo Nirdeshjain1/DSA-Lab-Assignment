@@ -8,8 +8,6 @@ Welcome to the DSA Lab Assignment repository! This repository contains implement
 - [Technologies Used](#technologies-used)
 - [Implementation](#Implementation)
 - [How to Run](#how-to-run)
-- [Example Usage](#example-usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -41,6 +39,12 @@ The DSA Lab Assignment includes the following implementations of advanced array 
    git clone https://github.com/Nirdeshjain1/DSA-Lab-Assignment.git
    
 2. **Navigate to the Project Directory**
-Change your directory to the cloned repository:
-```bash
-cd DSA-Lab-Assignment
+   Change your directory to the cloned repository:
+   ```bash
+   cd DSA-Lab-Assignment
+
+## License
+
+- Make sure to fill in any placeholder text (like **Lab Date** and **Batch**) with actual information.
+- Adjust the commands in the **How to Run the Implementations** section to match the actual filenames you use in your project.
+- You can add any additional sections (like Contributing, Acknowledgments, etc.) as needed.
