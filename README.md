@@ -26,11 +26,11 @@ This repository showcases various data structures and algorithms implemented in 
 
 The DSA Lab Assignment includes the following implementations of advanced array and string operations:
 
-**1.	Implementing Static and Dynamic Arrays**
-**2. String Operations**
-**3.	Algorithm Analysis**
-**4.	Multi-dimensional Arrays**
-**5.	Advanced String Operations**
-**6.	Complexity Analysis**
+- **Implementing Static and Dynamic Arrays**
+- **String Operations**
+- **Algorithm Analysis**
+- **Multi-dimensional Arrays**
+- **Advanced String Operations**
+- **Complexity Analysis**
 
 ## How to Run
