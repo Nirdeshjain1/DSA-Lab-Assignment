@@ -6,7 +6,7 @@ Welcome to the DSA Lab Assignment repository! This repository contains implement
 
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
+- [Implementation](#Implementation)
 - [How to Run](#how-to-run)
 - [Example Usage](#example-usage)
 - [Contributing](#contributing)
