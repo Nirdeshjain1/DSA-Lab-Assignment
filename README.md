@@ -34,3 +34,13 @@ The DSA Lab Assignment includes the following implementations of advanced array 
 - **Complexity Analysis**
 
 ## How to Run
+
+1. **Clone the Repository**  
+   Use Git to clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/Nirdeshjain1/DSA-Lab-Assignment.git
+   
+2. **Navigate to the Project Directory**
+Change your directory to the cloned repository:
+```bash
+cd DSA-Lab-Assignment
